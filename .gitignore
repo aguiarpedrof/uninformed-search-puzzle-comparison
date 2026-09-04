@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX auxiliary files (keep main.pdf)
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
